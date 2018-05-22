@@ -213,7 +213,7 @@ def main():
     # 修改path即可
     # path文件夹及其子文件夹下的所有srt文件将被翻译
     # 并且将原始的srt文件命名为“backup+原始名字.srt”
-    path = r'C://Users//ToykingV//Documents//GitHub//SubtitleTranslate//'
+    path = r'C:\Users\ToykingV\Documents\GitHub\SubtitleTranslate'
     translate_file_in_path(path)
 
 
